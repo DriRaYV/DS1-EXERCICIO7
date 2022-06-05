@@ -1,0 +1,35 @@
+* {
+    font-family: cursive;
+}
+
+h2 {
+    color: blue;
+}
+
+#título2 {
+    text-align: center;
+}
+
+.p-1{
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
+
+h3 {
+    color: red;
+}
+
+#tituloprincipal {
+    text-align: justify;
+}
+
+strong {
+    color: red;
+}
+
+#div1 {
+    background-color: aqua;
+    width: 600px;
+    display: block;
+}
